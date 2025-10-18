@@ -68,7 +68,7 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="ObjectiveCc">
         <configuration>
           <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
